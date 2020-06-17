@@ -1,0 +1,17 @@
+// underscore preceding the file name means that this is a partial file and will be imported into the main file
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; 
+}
+
+body {
+    box-sizing: border-box;
+}
